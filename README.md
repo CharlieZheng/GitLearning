@@ -12,6 +12,7 @@
 > 
 ***git config --global core.quotepath false***
 core.quotepath设为false的话，就不会对0x80以上的字符进行quote
+
 ####rm
 > 
 ***git rm --cached <file>***
