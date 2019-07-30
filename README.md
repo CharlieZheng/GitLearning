@@ -16,3 +16,7 @@
  
  ***例如***
  - $git rm -r --cached /.gradle
+
+#### 跟踪远程分支
+
+ - $git branch --set-upstream-to=origin/master master
