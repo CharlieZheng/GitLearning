@@ -26,3 +26,7 @@
  - $git push origin :\<branchName\>
 
 相当于把空的本地分支推送到远程分支，即删除远程分支
+
+#### cherry-pick 把某些提交的捡到当前分支
+
+```git cherry-pick 6a498ec --no-commit```
