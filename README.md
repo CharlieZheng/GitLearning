@@ -30,3 +30,10 @@
 #### cherry-pick 把某些提交的捡到当前分支
 
 ```git cherry-pick 6a498ec --no-commit```
+
+#### pull 的完整形式
+```
+git pull origin dev:dev
+```
+
+呃，暂不知道冒号前后哪个是远程分支的分支名
